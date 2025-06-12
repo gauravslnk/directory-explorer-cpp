@@ -1,3 +1,6 @@
+# for VS Code folder
+.vscode/
+
 # Prerequisites
 *.d
 
